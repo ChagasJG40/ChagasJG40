@@ -1,4 +1,4 @@
-# Olá pessoal, me chamo George!
+# hello, me chamo George!
 Em processo de mudança de carreira.🔁 <br>
 Concluindo Análise e Desenvolvimento de Sistemas📚<br>
 Estudando HTML | CSS | JavaScript | Python💻<br>
