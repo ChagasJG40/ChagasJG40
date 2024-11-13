@@ -1,7 +1,6 @@
 # hello, me chamo George!
-Em processo de mudança de carreira.🔁 <br>
-Concluindo Análise e Desenvolvimento de Sistemas📚<br>
-Estudando HTML | CSS | JavaScript | Python💻<br>
+Análista de Sistemas📚<br>
+HTML | CSS | JavaScript | Python💻<br>
 BI Developer📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChagasJG40&show_icons=true&theme=radical)
