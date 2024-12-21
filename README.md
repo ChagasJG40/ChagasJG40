@@ -1,4 +1,4 @@
-# hello, me chamo George!
+# hello, my name is George!
 Análista de Sistemas📚<br>
 HTML | CSS | JavaScript | Python💻<br>
 BI Developer📊
