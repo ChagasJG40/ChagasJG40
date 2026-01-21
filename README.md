@@ -1,4 +1,4 @@
-# George Chagas
+# George H. B. Chagas
 
 Desenvolvedor Python | HTML CSS e JS
 
