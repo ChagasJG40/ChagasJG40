@@ -1,8 +1,8 @@
 # George H. B. Chagas
 
-Desenvolvedor Python | HTML |CSS | JS | N8N
+Desenvolvedor Python | HTML |CSS | JS | N8N 
 
-Me chamo George Chagas, tenho 45 anos, formado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR. Amo tecnologia, desde que sentei na frente de um computador a primeira vez. Atualmnte estou me especializando em Análise de Dados e IA.
+Me chamo George Chagas, tenho 44 anos, formado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR. Amo tecnologia, desde que sentei na frente de um computador a primeira vez. Atualmnte estou me especializando em Análise de Dados e IA.
 
 ---
 
